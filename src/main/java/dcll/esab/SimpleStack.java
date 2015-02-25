@@ -18,6 +18,7 @@ public class SimpleStack implements Stack {
         return 0;
     }
 
+    
     @Override
     public void push(Item item) {
         // TODO Auto-generated method stub
